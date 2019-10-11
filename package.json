@@ -1,0 +1,22 @@
+{
+  "name": "task-app",
+  "version": "1.0.0",
+  "description": "\"# task-app\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gitdeepsingh/task-app.git"
+  },
+  "author": "deepsingh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gitdeepsingh/task-app/issues"
+  },
+  "homepage": "https://github.com/gitdeepsingh/task-app#readme",
+  "dependencies": {
+    "mongodb": "^3.3.2"
+  }
+}
