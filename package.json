@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gitdeepsingh/task-app#readme",
   "dependencies": {
-    "mongodb": "^3.3.2"
+    "mongodb": "^3.3.2",
+    "mongoose": "^5.7.7"
   }
 }
